@@ -2,4 +2,5 @@
 
 ##    Creacion de repositorio
 ###   compartir del repo
-####  dar permisos    
+####  dar permisos  
+####  agregar archivos
